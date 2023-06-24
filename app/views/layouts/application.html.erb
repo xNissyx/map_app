@@ -11,6 +11,16 @@
   </head>
 
   <body>
-    <%= yield %>
+    <header class="bg-light p-3">
+      <h1>あなたのアプリケーション名</h1>
+    </header>
+
+    <main class="container my-5">
+      <%= yield %>
+    </main>
+
+    <footer class="bg-light p-3 text-center">
+      <p>© あなたのアプリケーション名</p>
+    </footer>
   </body>
 </html>
