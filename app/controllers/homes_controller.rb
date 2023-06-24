@@ -1,9 +1,9 @@
 class HomesController < ApplicationController
-  layout 'top', only: [:top]
-  
+  layout 'landing', only: [:landing]
+
   def top
   end
-  
-  def index
+
+  def landing
   end
 end
