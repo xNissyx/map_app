@@ -1,24 +1,24 @@
-# README
+# サイト名（未定）
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## サイト概要
+### サイトテーマ
+恋人や家族と行きたい場所を優先度（行きたい順）ごとにメモしておけるようなアプリ
 
-Things you may want to cover:
+### テーマを選んだ理由
+インスタとかで行きたい場所をメモすると、多すぎて結局マップにピンだらけでよくわからなくなることがよくあるから。
 
-* Ruby version
+### ターゲットユーザー
+旅行・カフェ巡りが好きな方、インスタのマップがピンだらけでぐちゃぐちゃな方
 
-* System dependencies
+## 使用技術
+- Ruby
+- HTML
+- CSS
+- javascript
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## 開発環境
+- OS：Linux(CentOS)
+- 言語：HTML,CSS,JavaScript,Ruby,SQL
+- フレームワーク：Ruby on Rails
+- JSライブラリ：jQuery
+- IDE：Cloud9
